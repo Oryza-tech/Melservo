@@ -1,6 +1,12 @@
+# Mengabaikan file kompresi dan video
 *.zip
-*.SLDASM
 *.mp4
-*.SLDPRT
-*.sldasm
+
+# Mengabaikan dokumen
 *.pdf
+
+# Mengabaikan file SolidWorks (Assembly & Part)
+*.SLDASM
+*.sldasm
+*.SLDPRT
+*.sldprt
