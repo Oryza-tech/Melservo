@@ -1,7 +1,15 @@
-# Mengabaikan file kompresi dan video
-*.zip
-*.mp4
+# 1. Abaikan semua file dan folder di seluruh proyek
+*
 
-# Mengabaikan dokumen
-*.pdf
-HC-KFS053 front.SLDPRT
+# 2. Berikan pengecualian agar folder tidak ikut diabaikan (supaya Git bisa membaca isinya)
+!*/
+!**/
+
+# 3. Berikan pengecualian khusus untuk file .STEP atau .stp (huruf besar & kecil)
+!*.STEP
+!*.step
+!*.STP
+!*.stp
+
+# 4. Berikan pengecualian untuk file .gitignore itu sendiri agar tetap ter-track
+!.gitignore
