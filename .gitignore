@@ -4,9 +4,3 @@
 
 # Mengabaikan dokumen
 *.pdf
-
-# Mengabaikan file SolidWorks (Assembly & Part)
-*.SLDASM
-*.sldasm
-*.SLDPRT
-*.sldprt
