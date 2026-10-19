@@ -1,6 +1,6 @@
-## Desain Assembly 3D
+## 3D model
 
-click to view:
+Click to view:
+* [MRJ2S.STL](MRJ2S/MRJ2S.STL)
+* [HC-KFS053.STL](HC-KFS%20053/3D/HC-KFS053.STL)
 
-MRJ2S/MRJ2S.STL
-HC-KFS 053/3D/HC-KFS053.STL
