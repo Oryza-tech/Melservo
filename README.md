@@ -1,5 +1,6 @@
-## 🛠️ Desain Assembly 3D
+## Desain Assembly 3D
 
-Berikut adalah tampilan visual dari model assembly:
+click to view:
 
-![Preview Desain 3D](preview.gif)
+/MRJ2S/MRJ2S.STL
+/HC-KFS 053/3D/HC-KFS053.STL
