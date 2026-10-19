@@ -1,15 +1,6 @@
-# 1. Abaikan semua file dan folder di seluruh proyek
 *
-
-# 2. Berikan pengecualian agar folder tidak ikut diabaikan (supaya Git bisa membaca isinya)
 !*/
 !**/
-
-# 3. Berikan pengecualian khusus untuk file .STEP atau .stp (huruf besar & kecil)
-!*.STEP
-!*.step
-!*.STP
-!*.stp
-
-# 4. Berikan pengecualian untuk file .gitignore itu sendiri agar tetap ter-track
+!*.STL
+!*.stl
 !.gitignore
